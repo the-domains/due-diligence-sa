@@ -1,21 +1,19 @@
 ---
-description: Due Diligence S.A.
-dateModified: '2016-07-22T21:10:49.028Z'
-datePublished: '2016-07-22T21:12:34.418Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-07-22T21:14:28.714Z'
 sourcePath: _posts/2016-07-22-due-diligence-sa.md
+author: []
+via: {}
+dateModified: '2016-07-22T21:14:28.130Z'
+title: Diligent IT & Accounting Support
+publisher: {}
+description: ''
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-Due Diligence S.A.
+## Diligent IT & Accounting Support
 
-Diligent IT & Accounting Support Services
-
-Inquiries: info@diligent.pw
+## Inquiries: info@diligent.pw
