@@ -1,13 +1,13 @@
 ---
-description: ''
-dateModified: '2016-07-22T22:16:06.917Z'
-datePublished: '2016-07-22T22:16:22.295Z'
-title: Diligent IT & Accounting Support
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-07-22T22:17:38.285Z'
 sourcePath: _posts/2016-07-22-diligent-it-and-accounting-support.md
+author: []
+via: {}
+dateModified: '2016-07-22T22:17:37.653Z'
+title: Diligent IT & Accounting Support
+publisher: {}
+description: ''
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
