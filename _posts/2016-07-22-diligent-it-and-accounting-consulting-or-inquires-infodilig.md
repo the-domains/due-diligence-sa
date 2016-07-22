@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-07-22T22:55:41.708Z'
+datePublished: '2016-07-22T22:57:03.629Z'
 sourcePath: >-
   _posts/2016-07-22-diligent-it-and-accounting-consulting-or-inquires-infodilig.md
 author: []
 via: {}
-dateModified: '2016-07-22T22:55:41.164Z'
+dateModified: '2016-07-22T22:57:02.638Z'
 title: ''
 publisher: {}
 description: >-
-  Diligent Information Technology & Accounting Support Services  | 
-  info@diligent.pw  |  Phone: +1 415 244 7992
+  Diligent IT & Accounting Support Services  |  Inquiries: info@diligent.pw  | 
+  Phone: +1 415 244 7992
 starred: false
 inFeed: true
 hasPage: true
@@ -19,4 +19,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Diligent Information Technology & Accounting Support Services  |  info@diligent.pw  |  Phone: +1 415 244 7992](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76caf10e-76df-41a4-addd-0621181e3c1a.jpg)
+![Diligent IT & Accounting Support Services  |  Inquiries: info@diligent.pw  |  Phone: +1 415 244 7992](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76caf10e-76df-41a4-addd-0621181e3c1a.jpg)
