@@ -1,14 +1,14 @@
-layout_spectrum: 0.40944702574051917
-typography_spectrum: 0.2389292309526354
+layout_spectrum: 0.5505619221366942
+typography_spectrum: 0.5930301554035395
 color:
-  brandStrength: 0.878460607258603
-  lightness: 0.49194119148887694
-  saturation: 0.7053236810024828
-  rhythmicContrast: 0.09578950610011816
+  brandStrength: 0.25840131333097816
+  lightness: 0.9769383142702281
+  saturation: 0.09573807031847537
+  rhythmicContrast: 0.3463575141504407
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 name: Due Diligence S.A.
