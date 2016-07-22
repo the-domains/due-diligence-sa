@@ -1,20 +1,20 @@
 ---
-description: ''
-dateModified: '2016-07-22T22:05:52.333Z'
-datePublished: '2016-07-22T22:06:00.822Z'
-title: DUE DILIGENCE S.A.
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-07-22T22:07:29.223Z'
 sourcePath: _posts/2016-07-22-due-diligence-sa.md
+author: []
+via: {}
+dateModified: '2016-07-22T22:07:28.622Z'
+title: DUE DILIGENCE S.A.
+publisher: {}
+description: ''
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-# DUE DILIGENCE S.A.
+## DUE DILIGENCE S.A.
 
 ## Diligent IT & Accounting Support
 
