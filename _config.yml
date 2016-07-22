@@ -1,18 +1,18 @@
-typography_spectrum: 0.2389292309526354
+typography_spectrum: 0.08209405769594014
 content_rating:
   adult: false
 color:
-  brandStrength: 0.878460607258603
-  lightness: 0.49194119148887694
-  saturation: 0.7053236810024828
-  rhythmicContrast: 0.09578950610011816
+  brandStrength: 0.19947139360010624
+  lightness: 0.33850214956328273
+  saturation: 0.22748201130889356
+  rhythmicContrast: 0.5219634345266968
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-layout_spectrum: 0.40944702574051917
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+layout_spectrum: 0.27464422676712275
 author:
   name: Due Diligence S.A.
 name: Due Diligence S.A.
