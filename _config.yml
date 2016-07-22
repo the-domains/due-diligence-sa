@@ -16,5 +16,9 @@ layout_spectrum: 0.40944702574051917
 author:
   name: Due Diligence S.A.
 name: Due Diligence S.A.
-navigation: []
+navigation:
+  - id: f81dc500-87d2-44bc-9a37-66df0a3968b1
+    url: 2016-07-22-due-diligence-sa.html
+    name: CONTACT
+    type: content
 title: Due Diligence S.A.
