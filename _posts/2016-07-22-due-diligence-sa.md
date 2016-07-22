@@ -1,17 +1,16 @@
 ---
 description: ''
-dateModified: '2016-07-22T21:25:37.094Z'
-datePublished: '2016-07-22T21:25:52.643Z'
+dateModified: '2016-07-22T21:27:28.201Z'
+datePublished: '2016-07-22T21:27:28.805Z'
 title: DUE DILIGENCE S.A.
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-22-due-diligence-sa.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: due-diligence-sa/index.html
+_type: Blurb
 
 ---
 # DUE DILIGENCE S.A.
